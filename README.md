@@ -1,2 +1,2 @@
-# Design-1
+# project-1
 Responsive design 
